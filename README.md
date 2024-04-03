@@ -7,7 +7,7 @@
 
 ---
 
-![snake gif](https://github.com/brock002/brock002/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/brock002/brock002/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
